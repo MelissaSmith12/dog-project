@@ -4,6 +4,9 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
+## Note
+
+This repository contains a completed project from Udacity's Machine Learning and AI Nanodegree. The completed project can be found in "dog_app.ipynb".
 
 ## Project Overview
 
